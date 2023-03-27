@@ -1,0 +1,3 @@
+-Rock Paper Scissors game using matrix logic and full error handeling used.(One of the best versions of this game out there.)
+-uses matrix logic instead of traditional conditional logic.
+-uses error handling to improve user experience and smooth gameplay
